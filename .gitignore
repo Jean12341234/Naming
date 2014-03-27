@@ -1,6 +1,15 @@
-*.class
+public class Name {
 
-# Package Files #
-*.jar
-*.war
-*.ear
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // My name
+        
+        System.out.println ("My name is Jean");
+        
+        
+        
+        
+  }
+  
