@@ -8,7 +8,7 @@ public class Name {
         
         System.out.println ("My name is Jean");
         System.out.println("Hello, I am Connie");
-        
+        System.out.println("Hello, Jingxian Huang visited this file!!");
         
         
   }
