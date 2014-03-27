@@ -7,7 +7,7 @@ public class Name {
         // My name
         
         System.out.println ("My name is Jean");
-        
+        System.out.println("Hello, I am Connie");
         
         
         
